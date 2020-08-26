@@ -1,5 +1,3 @@
-# day-28-vue-router
-
 ## Project setup
 ```
 yarn install
